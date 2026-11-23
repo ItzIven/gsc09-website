@@ -1,0 +1,25 @@
+name: click-TT Abruf (Test)
+on:
+  workflow_dispatch:
+  push:
+    paths: ['.github/workflows/clicktt-probe.yml']
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Seiten abrufen
+        run: |
+          mkdir -p raw
+          UA="Mozilla/5.0 (GSC09-Website-Bot)"
+          curl -sSL -A "$UA" -o raw/group-521754.html "https://ttvmv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/groupPage?championship=Bezirk+Nordost+26%2F27&group=521754"
+          curl -sSL -A "$UA" -o raw/club-meetings.html "https://ttvmv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/clubMeetings?club=39404"
+          ls -la raw
+      - name: In Branch clicktt-raw ablegen
+        run: |
+          cd raw
+          git init -q -b clicktt-raw
+          git config user.name "github-actions"; git config user.email "actions@github.com"
+          git add -A && git commit -qm "Rohdaten $(date -u +%F)"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" clicktt-raw
