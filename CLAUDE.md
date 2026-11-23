@@ -36,3 +36,12 @@ V `5. MANNSCHAFT · 3. KREISKLASSE` · U19 `NACHWUCHS · LANDESLIGA JUNGEN 19 WE
 ### Vor dem Push prüfen
 - `node --check data.js`, HTML-Struktur intakt (öffnende/schließende Tags), jede Zahl im Text gegen das JSON.
 - Commit-Nachricht auf Deutsch. Danach `clicktt/pending.json` ist beim nächsten Abgleich automatisch leer.
+
+## Weitere Bausteine (extras.js / extras.css)
+- **Nächstes Heimspiel** (`#heimspiel`): automatisch aus `data.js` (nächstes Heimspiel ohne Ergebnis, Countdown,
+  am Spieltag YouTube-Hinweis). Nichts zu pflegen.
+- **Galerie** (`#galerie`): Bilder in der Liste `GALLERY` oben in `extras.js` ergänzen (`album` = Saison oder Thema,
+  Breite/Höhe angeben, Bild als .webp nach `assets/`). Neue Alben erscheinen automatisch als Reiter.
+- **Probetraining** (`#probetraining`): öffnet eine vorausgefüllte E-Mail an Matthias, speichert keine Daten.
+- **Impressum**: `<template id="impressum-template">` in `index.html`.
+- **Teilen-Vorschau**: `assets/og-image.jpg` (1200×630) und `og:`-Tags im `<head>`.
