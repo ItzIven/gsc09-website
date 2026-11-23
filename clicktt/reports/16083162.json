@@ -1,0 +1,319 @@
+{
+ "meeting": "16083162",
+ "date": "2026-11-20",
+ "time": "19:00",
+ "league": "Bezirksklasse Herren Nordost 1",
+ "team": "III",
+ "teamTitle": "3. Mannschaft",
+ "home": "Güstrower SC III",
+ "away": "TTC Kröpelin III",
+ "score": "10:7",
+ "gscIsHome": true,
+ "url": "https://ttvmv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/groupMeetingReport?meeting=16083162&championship=Bezirk+Nordost+26%2F27&group=521754",
+ "games": [
+  {
+   "pos": "D1-D1",
+   "home": [
+    "Maik Bildhauer",
+    "Hans-Jürgen Drögmöller"
+   ],
+   "away": [
+    "Christopher Schönfelder",
+    "Bernard Bensler"
+   ],
+   "sets": [
+    "11:8",
+    "11:4",
+    "11:1"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "D2-D2",
+   "home": [
+    "Matthias Hackbarth",
+    "Marcel Lau"
+   ],
+   "away": [
+    "Marco Heckl",
+    "Frank Schilling"
+   ],
+   "sets": [
+    "12:10",
+    "11:7",
+    "6:11",
+    "11:2"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "1-2",
+   "home": [
+    "Maik Bildhauer"
+   ],
+   "away": [
+    "Marco Heckl"
+   ],
+   "sets": [
+    "5:11",
+    "8:11",
+    "11:4",
+    "11:7",
+    "9:11"
+   ],
+   "setsTotal": "2:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "2-1",
+   "home": [
+    "Hans-Jürgen Drögmöller"
+   ],
+   "away": [
+    "Christopher Schönfelder"
+   ],
+   "sets": [
+    "11:4",
+    "11:7",
+    "11:6"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "3-4",
+   "home": [
+    "Stefan Ruß"
+   ],
+   "away": [
+    "Bernard Bensler"
+   ],
+   "sets": [
+    "11:7",
+    "11:8",
+    "11:1"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-3",
+   "home": [
+    "Marcel Lau"
+   ],
+   "away": [
+    "Frank Schilling"
+   ],
+   "sets": [
+    "18:16",
+    "11:7",
+    "11:6"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "1-1",
+   "home": [
+    "Maik Bildhauer"
+   ],
+   "away": [
+    "Christopher Schönfelder"
+   ],
+   "sets": [
+    "7:11",
+    "16:14",
+    "8:11",
+    "12:10",
+    "9:11"
+   ],
+   "setsTotal": "2:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "2-2",
+   "home": [
+    "Hans-Jürgen Drögmöller"
+   ],
+   "away": [
+    "Marco Heckl"
+   ],
+   "sets": [
+    "6:11",
+    "11:5",
+    "12:10",
+    "11:13",
+    "11:5"
+   ],
+   "setsTotal": "3:2",
+   "point": "1:0"
+  },
+  {
+   "pos": "3-3",
+   "home": [
+    "Stefan Ruß"
+   ],
+   "away": [
+    "Frank Schilling"
+   ],
+   "sets": [
+    "10:12",
+    "3:11",
+    "8:11"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "4-4",
+   "home": [
+    "Marcel Lau"
+   ],
+   "away": [
+    "Bernard Bensler"
+   ],
+   "sets": [
+    "13:11",
+    "11:5",
+    "11:9"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "3-1",
+   "home": [
+    "Stefan Ruß"
+   ],
+   "away": [
+    "Christopher Schönfelder"
+   ],
+   "sets": [
+    "11:7",
+    "8:11",
+    "3:11",
+    "9:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-3",
+   "home": [
+    "Maik Bildhauer"
+   ],
+   "away": [
+    "Frank Schilling"
+   ],
+   "sets": [
+    "11:7",
+    "11:8",
+    "6:11",
+    "11:8"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-4",
+   "home": [
+    "Hans-Jürgen Drögmöller"
+   ],
+   "away": [
+    "Bernard Bensler"
+   ],
+   "sets": [
+    "10:12",
+    "11:5",
+    "11:8",
+    "11:7"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-2",
+   "home": [
+    "Marcel Lau"
+   ],
+   "away": [
+    "Marco Heckl"
+   ],
+   "sets": [
+    "9:11",
+    "10:12",
+    "8:11"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-4",
+   "home": [
+    "Maik Bildhauer"
+   ],
+   "away": [
+    "Bernard Bensler"
+   ],
+   "sets": [
+    "11:9",
+    "11:7",
+    "11:13",
+    "7:11",
+    "6:11"
+   ],
+   "setsTotal": "2:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "4-1",
+   "home": [
+    "Marcel Lau"
+   ],
+   "away": [
+    "Christopher Schönfelder"
+   ],
+   "sets": [
+    "3:11",
+    "7:11",
+    "7:11"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "2-3",
+   "home": [
+    "Hans-Jürgen Drögmöller"
+   ],
+   "away": [
+    "Frank Schilling"
+   ],
+   "sets": [
+    "11:8",
+    "11:5",
+    "11:4"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "3-2",
+   "home": [
+    "Stefan Ruß"
+   ],
+   "away": [
+    "Marco Heckl"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  }
+ ],
+ "start": "19:00",
+ "end": "21:30",
+ "spectators": "12",
+ "notes": "Spielbericht durch Spielleiter genehmigt. "
+}

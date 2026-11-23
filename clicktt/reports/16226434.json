@@ -1,0 +1,298 @@
+{
+ "meeting": "16226434",
+ "date": "2026-11-04",
+ "time": "19:00",
+ "league": "Kreisliga Herren Rostock Land",
+ "team": "IV",
+ "teamTitle": "4. Mannschaft",
+ "home": "SSV Satow",
+ "away": "Güstrower SC IV",
+ "score": "10:2",
+ "gscIsHome": false,
+ "url": "https://ttvmv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/groupMeetingReport?meeting=16226434&championship=Rostock+Land+26%2F27&group=521739",
+ "games": [
+  {
+   "pos": "D1-D1",
+   "home": [
+    "Heino Weeber",
+    "Roland Wörfel"
+   ],
+   "away": [
+    "Michael Girbig",
+    "Tim Blaffert"
+   ],
+   "sets": [
+    "11:1",
+    "11:7",
+    "9:11",
+    "11:4"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "D2-D2",
+   "home": [
+    "Alexander Horn",
+    "Frank Hoffmann"
+   ],
+   "away": [
+    "Marcel Lau",
+    "Til Burmeister"
+   ],
+   "sets": [
+    "11:4",
+    "11:4",
+    "11:9"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "1-2",
+   "home": [
+    "Heino Weeber"
+   ],
+   "away": [
+    "Marcel Lau"
+   ],
+   "sets": [
+    "12:10",
+    "7:11",
+    "13:11",
+    "10:12",
+    "12:10"
+   ],
+   "setsTotal": "3:2",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-1",
+   "home": [
+    "Alexander Horn"
+   ],
+   "away": [
+    "Michael Girbig"
+   ],
+   "sets": [
+    "2:11",
+    "11:8",
+    "5:11",
+    "9:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "3-4",
+   "home": [
+    "Frank Hoffmann"
+   ],
+   "away": [
+    "Til Burmeister"
+   ],
+   "sets": [
+    "11:3",
+    "11:4",
+    "11:7"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-3",
+   "home": [
+    "Roland Wörfel"
+   ],
+   "away": [
+    "Tim Blaffert"
+   ],
+   "sets": [
+    "11:9",
+    "6:11",
+    "3:11",
+    "11:7",
+    "11:8"
+   ],
+   "setsTotal": "3:2",
+   "point": "1:0"
+  },
+  {
+   "pos": "1-1",
+   "home": [
+    "Heino Weeber"
+   ],
+   "away": [
+    "Michael Girbig"
+   ],
+   "sets": [
+    "12:10",
+    "8:11",
+    "11:8",
+    "11:4"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-2",
+   "home": [
+    "Alexander Horn"
+   ],
+   "away": [
+    "Marcel Lau"
+   ],
+   "sets": [
+    "11:7",
+    "11:2",
+    "11:7"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "3-3",
+   "home": [
+    "Frank Hoffmann"
+   ],
+   "away": [
+    "Tim Blaffert"
+   ],
+   "sets": [
+    "9:11",
+    "8:11",
+    "11:9",
+    "10:12"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "4-4",
+   "home": [
+    "Roland Wörfel"
+   ],
+   "away": [
+    "Til Burmeister"
+   ],
+   "sets": [
+    "11:5",
+    "11:1",
+    "11:2"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "3-1",
+   "home": [
+    "Frank Hoffmann"
+   ],
+   "away": [
+    "Michael Girbig"
+   ],
+   "sets": [
+    "11:9",
+    "11:6",
+    "6:11",
+    "11:4"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "1-3",
+   "home": [
+    "Heino Weeber"
+   ],
+   "away": [
+    "Tim Blaffert"
+   ],
+   "sets": [
+    "2:11",
+    "11:7",
+    "6:11",
+    "11:8",
+    "11:8"
+   ],
+   "setsTotal": "3:2",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-4",
+   "home": [
+    "Alexander Horn"
+   ],
+   "away": [
+    "Til Burmeister"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "4-2",
+   "home": [
+    "Roland Wörfel"
+   ],
+   "away": [
+    "Marcel Lau"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "1-4",
+   "home": [
+    "Heino Weeber"
+   ],
+   "away": [
+    "Til Burmeister"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "4-1",
+   "home": [
+    "Roland Wörfel"
+   ],
+   "away": [
+    "Michael Girbig"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "2-3",
+   "home": [
+    "Alexander Horn"
+   ],
+   "away": [
+    "Tim Blaffert"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "3-2",
+   "home": [
+    "Frank Hoffmann"
+   ],
+   "away": [
+    "Marcel Lau"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  }
+ ],
+ "start": "19:00",
+ "end": "21:15",
+ "spectators": "11",
+ "notes": "Spielbericht durch Spielleiter genehmigt. "
+}

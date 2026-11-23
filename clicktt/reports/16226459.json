@@ -1,0 +1,324 @@
+{
+ "meeting": "16226459",
+ "date": "2026-10-26",
+ "time": "19:00",
+ "league": "Kreisliga Herren Rostock Land",
+ "team": "IV",
+ "teamTitle": "4. Mannschaft",
+ "home": "Güstrower SC IV",
+ "away": "TTV Laage",
+ "score": "9:9",
+ "gscIsHome": true,
+ "url": "https://ttvmv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/groupMeetingReport?meeting=16226459&championship=Rostock+Land+26%2F27&group=521739",
+ "games": [
+  {
+   "pos": "D1-D1",
+   "home": [
+    "Michael Girbig",
+    "Tim Blaffert"
+   ],
+   "away": [
+    "Bernd Ehlert",
+    "Marcel Kaden"
+   ],
+   "sets": [
+    "12:10",
+    "10:12",
+    "11:4",
+    "11:4"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "D2-D2",
+   "home": [
+    "Detlef Kahl",
+    "Isabell Mokosch"
+   ],
+   "away": [
+    "Tim Henning",
+    "Julia Weidner"
+   ],
+   "sets": [
+    "8:11",
+    "6:11",
+    "13:15"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-2",
+   "home": [
+    "Michael Girbig"
+   ],
+   "away": [
+    "Bernd Ehlert"
+   ],
+   "sets": [
+    "10:12",
+    "11:4",
+    "11:9",
+    "10:12",
+    "11:9"
+   ],
+   "setsTotal": "3:2",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-1",
+   "home": [
+    "Detlef Kahl"
+   ],
+   "away": [
+    "Tim Henning"
+   ],
+   "sets": [
+    "8:11",
+    "11:9",
+    "5:11",
+    "2:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "3-4",
+   "home": [
+    "Tim Blaffert"
+   ],
+   "away": [
+    "Marcel Kaden"
+   ],
+   "sets": [
+    "11:6",
+    "11:4",
+    "11:1"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-3",
+   "home": [
+    "Isabell Mokosch"
+   ],
+   "away": [
+    "Julia Weidner"
+   ],
+   "sets": [
+    "11:8",
+    "9:11",
+    "11:3",
+    "9:11",
+    "7:11"
+   ],
+   "setsTotal": "2:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-1",
+   "home": [
+    "Michael Girbig"
+   ],
+   "away": [
+    "Tim Henning"
+   ],
+   "sets": [
+    "7:11",
+    "11:4",
+    "11:8",
+    "12:10"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-2",
+   "home": [
+    "Detlef Kahl"
+   ],
+   "away": [
+    "Bernd Ehlert"
+   ],
+   "sets": [
+    "8:11",
+    "6:11",
+    "6:11"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "3-3",
+   "home": [
+    "Tim Blaffert"
+   ],
+   "away": [
+    "Julia Weidner"
+   ],
+   "sets": [
+    "15:13",
+    "8:11",
+    "11:8",
+    "11:9"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-4",
+   "home": [
+    "Isabell Mokosch"
+   ],
+   "away": [
+    "Marcel Kaden"
+   ],
+   "sets": [
+    "11:4",
+    "11:5",
+    "11:7"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "3-1",
+   "home": [
+    "Tim Blaffert"
+   ],
+   "away": [
+    "Tim Henning"
+   ],
+   "sets": [
+    "7:11",
+    "11:6",
+    "9:11",
+    "9:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-3",
+   "home": [
+    "Michael Girbig"
+   ],
+   "away": [
+    "Julia Weidner"
+   ],
+   "sets": [
+    "4:11",
+    "6:11",
+    "9:11"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "2-4",
+   "home": [
+    "Detlef Kahl"
+   ],
+   "away": [
+    "Marcel Kaden"
+   ],
+   "sets": [
+    "10:12",
+    "13:11",
+    "14:12",
+    "11:8"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-2",
+   "home": [
+    "Isabell Mokosch"
+   ],
+   "away": [
+    "Bernd Ehlert"
+   ],
+   "sets": [
+    "8:11",
+    "11:5",
+    "8:11",
+    "3:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-4",
+   "home": [
+    "Michael Girbig"
+   ],
+   "away": [
+    "Marcel Kaden"
+   ],
+   "sets": [
+    "11:4",
+    "11:9",
+    "11:6"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-1",
+   "home": [
+    "Isabell Mokosch"
+   ],
+   "away": [
+    "Tim Henning"
+   ],
+   "sets": [
+    "10:12",
+    "8:11",
+    "11:8",
+    "8:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "2-3",
+   "home": [
+    "Detlef Kahl"
+   ],
+   "away": [
+    "Julia Weidner"
+   ],
+   "sets": [
+    "5:11",
+    "5:11",
+    "8:11"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "3-2",
+   "home": [
+    "Tim Blaffert"
+   ],
+   "away": [
+    "Bernd Ehlert"
+   ],
+   "sets": [
+    "13:11",
+    "9:11",
+    "11:7",
+    "12:10"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  }
+ ],
+ "start": "19:00",
+ "end": "22:15",
+ "spectators": "5",
+ "notes": "Spielbericht durch Spielleiter genehmigt. "
+}

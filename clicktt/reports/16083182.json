@@ -1,0 +1,314 @@
+{
+ "meeting": "16083182",
+ "date": "2026-10-22",
+ "time": "19:00",
+ "league": "Bezirksklasse Herren Nordost 1",
+ "team": "II",
+ "teamTitle": "2. Mannschaft",
+ "home": "Gülzower SV",
+ "away": "Güstrower SC II",
+ "score": "10:5",
+ "gscIsHome": false,
+ "url": "https://ttvmv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/groupMeetingReport?meeting=16083182&championship=Bezirk+Nordost+26%2F27&group=521754",
+ "games": [
+  {
+   "pos": "D1-D1",
+   "home": [
+    "Volker Lüdeking",
+    "Thomas Preuß"
+   ],
+   "away": [
+    "Marven Kammin",
+    "Lennart Cicha"
+   ],
+   "sets": [
+    "9:11",
+    "11:5",
+    "10:12",
+    "11:6",
+    "11:8"
+   ],
+   "setsTotal": "3:2",
+   "point": "1:0"
+  },
+  {
+   "pos": "D2-D2",
+   "home": [
+    "Sebastian Müller",
+    "Eddie Preuß"
+   ],
+   "away": [
+    "Christian Peters",
+    "Enya Raetsch"
+   ],
+   "sets": [
+    "11:3",
+    "11:8",
+    "12:10"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "1-2",
+   "home": [
+    "Volker Lüdeking"
+   ],
+   "away": [
+    "Marven Kammin"
+   ],
+   "sets": [
+    "9:11",
+    "11:4",
+    "11:7",
+    "2:11",
+    "11:8"
+   ],
+   "setsTotal": "3:2",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-1",
+   "home": [
+    "Sebastian Müller"
+   ],
+   "away": [
+    "Christian Peters"
+   ],
+   "sets": [
+    "2:11",
+    "8:11",
+    "2:11"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "3-4",
+   "home": [
+    "Thomas Preuß"
+   ],
+   "away": [
+    "Enya Raetsch"
+   ],
+   "sets": [
+    "11:5",
+    "11:3",
+    "11:5"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-3",
+   "home": [
+    "Eddie Preuß"
+   ],
+   "away": [
+    "Lennart Cicha"
+   ],
+   "sets": [
+    "7:11",
+    "9:11",
+    "11:8",
+    "11:3",
+    "11:5"
+   ],
+   "setsTotal": "3:2",
+   "point": "1:0"
+  },
+  {
+   "pos": "1-1",
+   "home": [
+    "Volker Lüdeking"
+   ],
+   "away": [
+    "Christian Peters"
+   ],
+   "sets": [
+    "12:10",
+    "8:11",
+    "9:11",
+    "12:10",
+    "9:11"
+   ],
+   "setsTotal": "2:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "2-2",
+   "home": [
+    "Sebastian Müller"
+   ],
+   "away": [
+    "Marven Kammin"
+   ],
+   "sets": [
+    "4:11",
+    "8:11",
+    "7:11"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "3-3",
+   "home": [
+    "Thomas Preuß"
+   ],
+   "away": [
+    "Lennart Cicha"
+   ],
+   "sets": [
+    "11:8",
+    "8:11",
+    "4:11",
+    "11:9",
+    "11:6"
+   ],
+   "setsTotal": "3:2",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-4",
+   "home": [
+    "Eddie Preuß"
+   ],
+   "away": [
+    "Enya Raetsch"
+   ],
+   "sets": [
+    "11:6",
+    "11:5",
+    "11:9"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "3-1",
+   "home": [
+    "Thomas Preuß"
+   ],
+   "away": [
+    "Christian Peters"
+   ],
+   "sets": [
+    "7:11",
+    "11:6",
+    "11:5",
+    "9:11",
+    "11:8"
+   ],
+   "setsTotal": "3:2",
+   "point": "1:0"
+  },
+  {
+   "pos": "1-3",
+   "home": [
+    "Volker Lüdeking"
+   ],
+   "away": [
+    "Lennart Cicha"
+   ],
+   "sets": [
+    "11:6",
+    "11:6",
+    "11:6"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-4",
+   "home": [
+    "Sebastian Müller"
+   ],
+   "away": [
+    "Enya Raetsch"
+   ],
+   "sets": [
+    "7:11",
+    "7:11",
+    "11:6",
+    "8:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "4-2",
+   "home": [
+    "Eddie Preuß"
+   ],
+   "away": [
+    "Marven Kammin"
+   ],
+   "sets": [
+    "4:11",
+    "11:8",
+    "7:11",
+    "3:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-4",
+   "home": [
+    "Volker Lüdeking"
+   ],
+   "away": [
+    "Enya Raetsch"
+   ],
+   "sets": [
+    "11:5",
+    "11:8",
+    "7:11",
+    "11:9"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-1",
+   "home": [
+    "Eddie Preuß"
+   ],
+   "away": [
+    "Christian Peters"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "2-3",
+   "home": [
+    "Sebastian Müller"
+   ],
+   "away": [
+    "Lennart Cicha"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "3-2",
+   "home": [
+    "Thomas Preuß"
+   ],
+   "away": [
+    "Marven Kammin"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  }
+ ],
+ "start": "19:00",
+ "end": "22:00",
+ "spectators": "17",
+ "notes": "Spielbericht durch Spielleiter genehmigt. "
+}

@@ -1,0 +1,310 @@
+{
+ "meeting": "16083146",
+ "date": "2026-09-04",
+ "time": "19:00",
+ "league": "Bezirksklasse Herren Nordost 1",
+ "team": "II",
+ "teamTitle": "2. Mannschaft",
+ "home": "Güstrower SC II",
+ "away": "Güstrower SC III",
+ "score": "10:5",
+ "gscIsHome": true,
+ "url": "https://ttvmv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/groupMeetingReport?meeting=16083146&championship=Bezirk+Nordost+26%2F27&group=521754",
+ "games": [
+  {
+   "pos": "D1-D1",
+   "home": [
+    "Christian Peters",
+    "Torsten Batarow"
+   ],
+   "away": [
+    "Maik Bildhauer",
+    "Hans-Jürgen Drögmöller"
+   ],
+   "sets": [
+    "8:11",
+    "3:11",
+    "7:11"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "D2-D2",
+   "home": [
+    "Marven Kammin",
+    "Lennart Cicha"
+   ],
+   "away": [
+    "Marcel Lau",
+    "Matthias Hackbarth"
+   ],
+   "sets": [
+    "4:11",
+    "11:8",
+    "13:15",
+    "12:10",
+    "10:12"
+   ],
+   "setsTotal": "2:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-2",
+   "home": [
+    "Christian Peters"
+   ],
+   "away": [
+    "Hans-Jürgen Drögmöller"
+   ],
+   "sets": [
+    "11:8",
+    "11:9",
+    "11:6"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-1",
+   "home": [
+    "Torsten Batarow"
+   ],
+   "away": [
+    "Maik Bildhauer"
+   ],
+   "sets": [
+    "13:15",
+    "11:7",
+    "8:11",
+    "11:8",
+    "11:9"
+   ],
+   "setsTotal": "3:2",
+   "point": "1:0"
+  },
+  {
+   "pos": "3-4",
+   "home": [
+    "Marven Kammin"
+   ],
+   "away": [
+    "Matthias Hackbarth"
+   ],
+   "sets": [
+    "6:11",
+    "8:11",
+    "7:11"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "4-3",
+   "home": [
+    "Lennart Cicha"
+   ],
+   "away": [
+    "Klaus-Peter Lau"
+   ],
+   "sets": [
+    "12:10",
+    "6:11",
+    "8:11",
+    "11:5",
+    "11:6"
+   ],
+   "setsTotal": "3:2",
+   "point": "1:0"
+  },
+  {
+   "pos": "1-1",
+   "home": [
+    "Christian Peters"
+   ],
+   "away": [
+    "Maik Bildhauer"
+   ],
+   "sets": [
+    "5:11",
+    "11:9",
+    "11:9",
+    "11:3"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-2",
+   "home": [
+    "Torsten Batarow"
+   ],
+   "away": [
+    "Hans-Jürgen Drögmöller"
+   ],
+   "sets": [
+    "11:9",
+    "11:6",
+    "11:8"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "3-3",
+   "home": [
+    "Marven Kammin"
+   ],
+   "away": [
+    "Klaus-Peter Lau"
+   ],
+   "sets": [
+    "10:12",
+    "11:4",
+    "11:7",
+    "11:5"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-4",
+   "home": [
+    "Lennart Cicha"
+   ],
+   "away": [
+    "Matthias Hackbarth"
+   ],
+   "sets": [
+    "9:11",
+    "5:11",
+    "9:11"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "3-1",
+   "home": [
+    "Marven Kammin"
+   ],
+   "away": [
+    "Maik Bildhauer"
+   ],
+   "sets": [
+    "9:11",
+    "11:9",
+    "11:6",
+    "11:9"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "1-3",
+   "home": [
+    "Christian Peters"
+   ],
+   "away": [
+    "Klaus-Peter Lau"
+   ],
+   "sets": [
+    "8:11",
+    "11:4",
+    "11:4",
+    "11:7"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-4",
+   "home": [
+    "Torsten Batarow"
+   ],
+   "away": [
+    "Matthias Hackbarth"
+   ],
+   "sets": [
+    "4:11",
+    "12:10",
+    "11:8",
+    "11:7"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-2",
+   "home": [
+    "Lennart Cicha"
+   ],
+   "away": [
+    "Hans-Jürgen Drögmöller"
+   ],
+   "sets": [
+    "7:11",
+    "8:11",
+    "6:11"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-4",
+   "home": [
+    "Christian Peters"
+   ],
+   "away": [
+    "Matthias Hackbarth"
+   ],
+   "sets": [
+    "11:5",
+    "11:3",
+    "11:6"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-1",
+   "home": [
+    "Lennart Cicha"
+   ],
+   "away": [
+    "Maik Bildhauer"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "2-3",
+   "home": [
+    "Torsten Batarow"
+   ],
+   "away": [
+    "Klaus-Peter Lau"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "3-2",
+   "home": [
+    "Marven Kammin"
+   ],
+   "away": [
+    "Hans-Jürgen Drögmöller"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  }
+ ],
+ "start": "19:00",
+ "end": "21:45",
+ "spectators": "14",
+ "notes": "Spielbericht durch Spielleiter genehmigt. "
+}

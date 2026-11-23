@@ -1,0 +1,298 @@
+{
+ "meeting": "16226579",
+ "date": "2026-09-14",
+ "time": "19:00",
+ "league": "3. Kreisklasse Herren",
+ "team": "V",
+ "teamTitle": "5. Mannschaft",
+ "home": "Güstrower SC V",
+ "away": "TTV Laage III",
+ "score": "10:2",
+ "gscIsHome": true,
+ "url": "https://ttvmv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/groupMeetingReport?meeting=16226579&championship=Rostock+Land+26%2F27&group=534877",
+ "games": [
+  {
+   "pos": "D1-D1",
+   "home": [
+    "Peter Schröder",
+    "Dietmar Kriemann"
+   ],
+   "away": [
+    "Marco Hehl",
+    "Silvio Michehl"
+   ],
+   "sets": [
+    "11:9",
+    "11:4",
+    "11:8"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "D2-D2",
+   "home": [
+    "Olaf Zimmermann",
+    "Bernd Matthias"
+   ],
+   "away": [
+    "Holger Reißner",
+    "Christine Genrich"
+   ],
+   "sets": [
+    "2:11",
+    "11:9",
+    "9:11",
+    "12:10",
+    "11:2"
+   ],
+   "setsTotal": "3:2",
+   "point": "1:0"
+  },
+  {
+   "pos": "1-2",
+   "home": [
+    "Peter Schröder"
+   ],
+   "away": [
+    "Holger Reißner"
+   ],
+   "sets": [
+    "5:11",
+    "7:11",
+    "11:5",
+    "12:10",
+    "11:6"
+   ],
+   "setsTotal": "3:2",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-1",
+   "home": [
+    "Dietmar Kriemann"
+   ],
+   "away": [
+    "Marco Hehl"
+   ],
+   "sets": [
+    "7:11",
+    "9:11",
+    "3:11"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "3-4",
+   "home": [
+    "Olaf Zimmermann"
+   ],
+   "away": [
+    "Christine Genrich"
+   ],
+   "sets": [
+    "11:4",
+    "11:7",
+    "11:4"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-3",
+   "home": [
+    "Bernd Matthias"
+   ],
+   "away": [
+    "Silvio Michehl"
+   ],
+   "sets": [
+    "11:5",
+    "12:10",
+    "11:7"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "1-1",
+   "home": [
+    "Peter Schröder"
+   ],
+   "away": [
+    "Marco Hehl"
+   ],
+   "sets": [
+    "8:11",
+    "11:9",
+    "11:4",
+    "11:5"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-2",
+   "home": [
+    "Dietmar Kriemann"
+   ],
+   "away": [
+    "Holger Reißner"
+   ],
+   "sets": [
+    "12:10",
+    "11:9",
+    "11:9"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "3-3",
+   "home": [
+    "Olaf Zimmermann"
+   ],
+   "away": [
+    "Silvio Michehl"
+   ],
+   "sets": [
+    "6:11",
+    "11:7",
+    "11:13",
+    "11:8",
+    "11:6"
+   ],
+   "setsTotal": "3:2",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-4",
+   "home": [
+    "Bernd Matthias"
+   ],
+   "away": [
+    "Christine Genrich"
+   ],
+   "sets": [
+    "11:7",
+    "11:9",
+    "6:11",
+    "10:12",
+    "11:6"
+   ],
+   "setsTotal": "3:2",
+   "point": "1:0"
+  },
+  {
+   "pos": "3-1",
+   "home": [
+    "Olaf Zimmermann"
+   ],
+   "away": [
+    "Marco Hehl"
+   ],
+   "sets": [
+    "5:11",
+    "11:5",
+    "11:4",
+    "5:11",
+    "9:11"
+   ],
+   "setsTotal": "2:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-3",
+   "home": [
+    "Peter Schröder"
+   ],
+   "away": [
+    "Silvio Michehl"
+   ],
+   "sets": [
+    "11:8",
+    "11:3",
+    "11:3"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-4",
+   "home": [
+    "Dietmar Kriemann"
+   ],
+   "away": [
+    "Christine Genrich"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "4-2",
+   "home": [
+    "Bernd Matthias"
+   ],
+   "away": [
+    "Holger Reißner"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "1-4",
+   "home": [
+    "Peter Schröder"
+   ],
+   "away": [
+    "Christine Genrich"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "4-1",
+   "home": [
+    "Bernd Matthias"
+   ],
+   "away": [
+    "Marco Hehl"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "2-3",
+   "home": [
+    "Dietmar Kriemann"
+   ],
+   "away": [
+    "Silvio Michehl"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "3-2",
+   "home": [
+    "Olaf Zimmermann"
+   ],
+   "away": [
+    "Holger Reißner"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  }
+ ],
+ "start": "19:00",
+ "end": "21:00",
+ "spectators": null,
+ "notes": "Spielbericht durch Spielleiter genehmigt. "
+}

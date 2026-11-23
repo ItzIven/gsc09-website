@@ -1,0 +1,186 @@
+{
+ "meeting": "16258567",
+ "date": "2026-10-30",
+ "time": "18:30",
+ "league": "Landesliga Jungen 19 West",
+ "team": "U19",
+ "teamTitle": "Nachwuchs U19",
+ "home": "Güstrower SC",
+ "away": "Mecklenburger Stiere Schwerin",
+ "score": "8:2",
+ "gscIsHome": true,
+ "url": "https://ttvmv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/groupMeetingReport?meeting=16258567&championship=TTVMV+26%2F27&group=521737",
+ "games": [
+  {
+   "pos": "D1-D1",
+   "home": [
+    "Isabell Mokosch",
+    "Leon Schöttler"
+   ],
+   "away": [
+    "Ivo Rothe",
+    "Maximilian Walter"
+   ],
+   "sets": [
+    "10:12",
+    "10:12",
+    "3:11"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "D2-D2",
+   "home": [
+    "Lennart Cicha",
+    "Eddie Preuß"
+   ],
+   "away": [
+    "Hermann Ziesche",
+    "Arjen Pepe Pisarski"
+   ],
+   "sets": [
+    "11:8",
+    "11:4",
+    "11:5"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "1-2",
+   "home": [
+    "Lennart Cicha"
+   ],
+   "away": [
+    "Maximilian Walter"
+   ],
+   "sets": [
+    "11:9",
+    "11:7",
+    "11:5"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-1",
+   "home": [
+    "Eddie Preuß"
+   ],
+   "away": [
+    "Ivo Rothe"
+   ],
+   "sets": [
+    "11:8",
+    "9:11",
+    "11:3",
+    "9:11",
+    "12:10"
+   ],
+   "setsTotal": "3:2",
+   "point": "1:0"
+  },
+  {
+   "pos": "3-4",
+   "home": [
+    "Isabell Mokosch"
+   ],
+   "away": [
+    "Arjen Pepe Pisarski"
+   ],
+   "sets": [
+    "11:4",
+    "11:6",
+    "11:4"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-3",
+   "home": [
+    "Leon Schöttler"
+   ],
+   "away": [
+    "Hermann Ziesche"
+   ],
+   "sets": [
+    "11:9",
+    "11:8",
+    "11:7"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "1-1",
+   "home": [
+    "Lennart Cicha"
+   ],
+   "away": [
+    "Ivo Rothe"
+   ],
+   "sets": [
+    "11:4",
+    "11:7",
+    "11:5"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-2",
+   "home": [
+    "Eddie Preuß"
+   ],
+   "away": [
+    "Maximilian Walter"
+   ],
+   "sets": [
+    "11:6",
+    "11:8",
+    "11:5"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "3-3",
+   "home": [
+    "Isabell Mokosch"
+   ],
+   "away": [
+    "Hermann Ziesche"
+   ],
+   "sets": [
+    "9:11",
+    "12:10",
+    "11:5",
+    "11:4"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-4",
+   "home": [
+    "Leon Schöttler"
+   ],
+   "away": [
+    "Arjen Pepe Pisarski"
+   ],
+   "sets": [
+    "10:12",
+    "11:13",
+    "12:14"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  }
+ ],
+ "start": "18:30",
+ "end": "20:00",
+ "spectators": null,
+ "notes": "Spielbericht durch Spielleiter genehmigt. "
+}

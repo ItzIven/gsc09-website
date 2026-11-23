@@ -1,0 +1,301 @@
+{
+ "meeting": "16267788",
+ "date": "2026-11-14",
+ "time": "10:00",
+ "league": "Landesliga Erwachsene West",
+ "team": "I",
+ "teamTitle": "1. Mannschaft",
+ "home": "TTC Schwerin",
+ "away": "Güstrower SC",
+ "score": "2:10",
+ "gscIsHome": false,
+ "url": "https://ttvmv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/groupMeetingReport?meeting=16267788&championship=TTVMV+26%2F27&group=521723",
+ "games": [
+  {
+   "pos": "D1-D1",
+   "home": [
+    "Björn Gabler",
+    "Cuong Le Minh"
+   ],
+   "away": [
+    "Johannes Wilkenloh",
+    "Iven Kammin"
+   ],
+   "sets": [
+    "13:11",
+    "9:11",
+    "8:11",
+    "6:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "D2-D2",
+   "home": [
+    "Alexander Wiek",
+    "Thomas Böge"
+   ],
+   "away": [
+    "Erik Kneifel",
+    "Michael Stepputat"
+   ],
+   "sets": [
+    "11:9",
+    "9:11",
+    "3:11",
+    "10:12"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-2",
+   "home": [
+    "Björn Gabler"
+   ],
+   "away": [
+    "Michael Stepputat"
+   ],
+   "sets": [
+    "11:6",
+    "11:8",
+    "11:7"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-1",
+   "home": [
+    "Cuong Le Minh"
+   ],
+   "away": [
+    "Erik Kneifel"
+   ],
+   "sets": [
+    "7:11",
+    "12:10",
+    "9:11",
+    "11:5",
+    "4:11"
+   ],
+   "setsTotal": "2:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "3-4",
+   "home": [
+    "Alexander Wiek"
+   ],
+   "away": [
+    "Iven Kammin"
+   ],
+   "sets": [
+    "11:4",
+    "11:3",
+    "14:12"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-3",
+   "home": [
+    "Thomas Böge"
+   ],
+   "away": [
+    "Johannes Wilkenloh"
+   ],
+   "sets": [
+    "10:12",
+    "6:11",
+    "1:11"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-1",
+   "home": [
+    "Björn Gabler"
+   ],
+   "away": [
+    "Erik Kneifel"
+   ],
+   "sets": [
+    "11:7",
+    "9:11",
+    "9:11",
+    "11:6",
+    "8:11"
+   ],
+   "setsTotal": "2:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "2-2",
+   "home": [
+    "Cuong Le Minh"
+   ],
+   "away": [
+    "Michael Stepputat"
+   ],
+   "sets": [
+    "5:11",
+    "7:11",
+    "12:10",
+    "8:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "3-3",
+   "home": [
+    "Alexander Wiek"
+   ],
+   "away": [
+    "Johannes Wilkenloh"
+   ],
+   "sets": [
+    "11:6",
+    "11:3",
+    "12:14",
+    "10:12",
+    "11:13"
+   ],
+   "setsTotal": "2:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "4-4",
+   "home": [
+    "Thomas Böge"
+   ],
+   "away": [
+    "Iven Kammin"
+   ],
+   "sets": [
+    "10:12",
+    "14:12",
+    "11:7",
+    "6:11",
+    "9:11"
+   ],
+   "setsTotal": "2:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "3-1",
+   "home": [
+    "Alexander Wiek"
+   ],
+   "away": [
+    "Erik Kneifel"
+   ],
+   "sets": [
+    "12:10",
+    "8:11",
+    "11:9",
+    "7:11",
+    "6:11"
+   ],
+   "setsTotal": "2:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-3",
+   "home": [
+    "Björn Gabler"
+   ],
+   "away": [
+    "Johannes Wilkenloh"
+   ],
+   "sets": [
+    "9:11",
+    "8:11",
+    "11:4",
+    "4:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "2-4",
+   "home": [
+    "Cuong Le Minh"
+   ],
+   "away": [
+    "Iven Kammin"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "4-2",
+   "home": [
+    "Thomas Böge"
+   ],
+   "away": [
+    "Michael Stepputat"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "1-4",
+   "home": [
+    "Björn Gabler"
+   ],
+   "away": [
+    "Iven Kammin"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "4-1",
+   "home": [
+    "Thomas Böge"
+   ],
+   "away": [
+    "Erik Kneifel"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "2-3",
+   "home": [
+    "Cuong Le Minh"
+   ],
+   "away": [
+    "Johannes Wilkenloh"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "3-2",
+   "home": [
+    "Alexander Wiek"
+   ],
+   "away": [
+    "Michael Stepputat"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  }
+ ],
+ "start": "10:00",
+ "end": "12:30",
+ "spectators": "2",
+ "notes": "Spielbericht durch Spielleiter genehmigt. "
+}

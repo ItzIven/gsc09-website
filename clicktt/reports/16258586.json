@@ -1,0 +1,189 @@
+{
+ "meeting": "16258586",
+ "date": "2026-11-21",
+ "time": "10:00",
+ "league": "Landesliga Jungen 19 West",
+ "team": "U19",
+ "teamTitle": "Nachwuchs U19",
+ "home": "TTC Grün-Weiß Waren",
+ "away": "Güstrower SC",
+ "score": "5:5",
+ "gscIsHome": false,
+ "url": "https://ttvmv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/groupMeetingReport?meeting=16258586&championship=TTVMV+26%2F27&group=521737",
+ "games": [
+  {
+   "pos": "D1-D1",
+   "home": [
+    "Tiberius Milinski",
+    "Elias Meßner"
+   ],
+   "away": [
+    "Enya Raetsch",
+    "Til Burmeister"
+   ],
+   "sets": [
+    "6:11",
+    "7:11",
+    "2:11"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "D2-D2",
+   "home": [
+    "Fridolin Häcker",
+    "Lenny Wybranietz"
+   ],
+   "away": [
+    "Leon Schöttler",
+    "Emil Socolowsky"
+   ],
+   "sets": [
+    "12:10",
+    "11:6",
+    "11:5"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "1-2",
+   "home": [
+    "Fridolin Häcker"
+   ],
+   "away": [
+    "Til Burmeister"
+   ],
+   "sets": [
+    "11:9",
+    "11:8",
+    "11:8"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-1",
+   "home": [
+    "Lenny Wybranietz"
+   ],
+   "away": [
+    "Enya Raetsch"
+   ],
+   "sets": [
+    "5:11",
+    "5:11",
+    "14:12",
+    "5:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "3-4",
+   "home": [
+    "Tiberius Milinski"
+   ],
+   "away": [
+    "Emil Socolowsky"
+   ],
+   "sets": [
+    "11:2",
+    "11:5",
+    "11:5"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-3",
+   "home": [
+    "Elias Meßner"
+   ],
+   "away": [
+    "Leon Schöttler"
+   ],
+   "sets": [
+    "11:9",
+    "11:9",
+    "11:6"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "1-1",
+   "home": [
+    "Fridolin Häcker"
+   ],
+   "away": [
+    "Enya Raetsch"
+   ],
+   "sets": [
+    "8:11",
+    "11:9",
+    "7:11",
+    "11:7",
+    "7:11"
+   ],
+   "setsTotal": "2:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "2-2",
+   "home": [
+    "Lenny Wybranietz"
+   ],
+   "away": [
+    "Til Burmeister"
+   ],
+   "sets": [
+    "4:11",
+    "11:8",
+    "9:11",
+    "11:7",
+    "8:11"
+   ],
+   "setsTotal": "2:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "3-3",
+   "home": [
+    "Tiberius Milinski"
+   ],
+   "away": [
+    "Leon Schöttler"
+   ],
+   "sets": [
+    "6:11",
+    "11:7",
+    "9:11",
+    "8:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "4-4",
+   "home": [
+    "Elias Meßner"
+   ],
+   "away": [
+    "Emil Socolowsky"
+   ],
+   "sets": [
+    "11:6",
+    "11:4",
+    "11:4"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  }
+ ],
+ "start": "10:00",
+ "end": "12:00",
+ "spectators": null,
+ "notes": "Spielbericht durch Spielleiter genehmigt. "
+}

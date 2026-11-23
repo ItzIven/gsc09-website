@@ -1,0 +1,301 @@
+{
+ "meeting": "16083169",
+ "date": "2026-10-01",
+ "time": "19:00",
+ "league": "Bezirksklasse Herren Nordost 1",
+ "team": "II",
+ "teamTitle": "2. Mannschaft",
+ "home": "Schwaaner SV",
+ "away": "Güstrower SC II",
+ "score": "3:10",
+ "gscIsHome": false,
+ "url": "https://ttvmv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/groupMeetingReport?meeting=16083169&championship=Bezirk+Nordost+26%2F27&group=521754",
+ "games": [
+  {
+   "pos": "D1-D1",
+   "home": [
+    "Eugen Boden",
+    "Daniel Strandt"
+   ],
+   "away": [
+    "Christian Peters",
+    "Marven Kammin"
+   ],
+   "sets": [
+    "8:11",
+    "4:11",
+    "11:9",
+    "7:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "D2-D2",
+   "home": [
+    "Stefanie Gremmer",
+    "Marko Walm"
+   ],
+   "away": [
+    "Torsten Batarow",
+    "Enya Raetsch"
+   ],
+   "sets": [
+    "7:11",
+    "11:8",
+    "7:11",
+    "9:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-2",
+   "home": [
+    "Eugen Boden"
+   ],
+   "away": [
+    "Torsten Batarow"
+   ],
+   "sets": [
+    "11:8",
+    "11:7",
+    "11:8"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-1",
+   "home": [
+    "Stefanie Gremmer"
+   ],
+   "away": [
+    "Christian Peters"
+   ],
+   "sets": [
+    "11:8",
+    "9:11",
+    "6:11",
+    "9:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "3-4",
+   "home": [
+    "Marko Walm"
+   ],
+   "away": [
+    "Enya Raetsch"
+   ],
+   "sets": [
+    "11:5",
+    "5:11",
+    "4:11",
+    "7:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "4-3",
+   "home": [
+    "Daniel Strandt"
+   ],
+   "away": [
+    "Marven Kammin"
+   ],
+   "sets": [
+    "3:11",
+    "11:7",
+    "4:11",
+    "11:13"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-1",
+   "home": [
+    "Eugen Boden"
+   ],
+   "away": [
+    "Christian Peters"
+   ],
+   "sets": [
+    "11:7",
+    "11:8",
+    "11:1"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-2",
+   "home": [
+    "Stefanie Gremmer"
+   ],
+   "away": [
+    "Torsten Batarow"
+   ],
+   "sets": [
+    "4:11",
+    "5:11",
+    "4:11"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "3-3",
+   "home": [
+    "Marko Walm"
+   ],
+   "away": [
+    "Marven Kammin"
+   ],
+   "sets": [
+    "6:11",
+    "6:11",
+    "10:12"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "4-4",
+   "home": [
+    "Daniel Strandt"
+   ],
+   "away": [
+    "Enya Raetsch"
+   ],
+   "sets": [
+    "8:11",
+    "11:9",
+    "8:11",
+    "11:6",
+    "7:11"
+   ],
+   "setsTotal": "2:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "3-1",
+   "home": [
+    "Marko Walm"
+   ],
+   "away": [
+    "Christian Peters"
+   ],
+   "sets": [
+    "13:11",
+    "8:11",
+    "1:11",
+    "12:14"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-3",
+   "home": [
+    "Eugen Boden"
+   ],
+   "away": [
+    "Marven Kammin"
+   ],
+   "sets": [
+    "7:11",
+    "11:4",
+    "7:11",
+    "11:5",
+    "11:6"
+   ],
+   "setsTotal": "3:2",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-4",
+   "home": [
+    "Stefanie Gremmer"
+   ],
+   "away": [
+    "Enya Raetsch"
+   ],
+   "sets": [
+    "0:11",
+    "0:11",
+    "0:11"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "4-2",
+   "home": [
+    "Daniel Strandt"
+   ],
+   "away": [
+    "Torsten Batarow"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "1-4",
+   "home": [
+    "Eugen Boden"
+   ],
+   "away": [
+    "Enya Raetsch"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "4-1",
+   "home": [
+    "Daniel Strandt"
+   ],
+   "away": [
+    "Christian Peters"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "2-3",
+   "home": [
+    "Stefanie Gremmer"
+   ],
+   "away": [
+    "Marven Kammin"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "3-2",
+   "home": [
+    "Marko Walm"
+   ],
+   "away": [
+    "Torsten Batarow"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  }
+ ],
+ "start": "19:00",
+ "end": "22:00",
+ "spectators": "4",
+ "notes": "Spielbericht durch Spielleiter genehmigt. "
+}

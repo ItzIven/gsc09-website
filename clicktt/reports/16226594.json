@@ -1,0 +1,284 @@
+{
+ "meeting": "16226594",
+ "date": "2026-10-07",
+ "time": "19:00",
+ "league": "3. Kreisklasse Herren",
+ "team": "V",
+ "teamTitle": "5. Mannschaft",
+ "home": "SSV Satow III",
+ "away": "Güstrower SC V",
+ "score": "10:0",
+ "gscIsHome": false,
+ "url": "https://ttvmv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/groupMeetingReport?meeting=16226594&championship=Rostock+Land+26%2F27&group=534877",
+ "games": [
+  {
+   "pos": "D1-D1",
+   "home": [
+    "Olaf Timm",
+    "Frank Müller"
+   ],
+   "away": [
+    "Peter Schröder",
+    "Dietmar Kriemann"
+   ],
+   "sets": [
+    "11:5",
+    "11:6",
+    "14:12"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "D2-D2",
+   "home": [
+    "Klaus Timm",
+    "Ina Liebe"
+   ],
+   "away": [
+    "Olaf Zimmermann",
+    "Volker Wiskow"
+   ],
+   "sets": [
+    "11:5",
+    "11:4",
+    "9:11",
+    "11:3"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "1-2",
+   "home": [
+    "Klaus Timm"
+   ],
+   "away": [
+    "Dietmar Kriemann"
+   ],
+   "sets": [
+    "11:6",
+    "11:9",
+    "11:7"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-1",
+   "home": [
+    "Olaf Timm"
+   ],
+   "away": [
+    "Peter Schröder"
+   ],
+   "sets": [
+    "11:7",
+    "11:6",
+    "8:11",
+    "11:9"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "3-4",
+   "home": [
+    "Dirk Amberg"
+   ],
+   "away": [
+    "Volker Wiskow"
+   ],
+   "sets": [
+    "11:2",
+    "11:5",
+    "11:7"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-3",
+   "home": [
+    "Frank Müller"
+   ],
+   "away": [
+    "Olaf Zimmermann"
+   ],
+   "sets": [
+    "11:5",
+    "11:8",
+    "8:11",
+    "11:6"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "1-1",
+   "home": [
+    "Klaus Timm"
+   ],
+   "away": [
+    "Peter Schröder"
+   ],
+   "sets": [
+    "11:8",
+    "12:10",
+    "11:9"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-2",
+   "home": [
+    "Olaf Timm"
+   ],
+   "away": [
+    "Dietmar Kriemann"
+   ],
+   "sets": [
+    "11:8",
+    "11:9",
+    "11:4"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "3-3",
+   "home": [
+    "Dirk Amberg"
+   ],
+   "away": [
+    "Olaf Zimmermann"
+   ],
+   "sets": [
+    "11:2",
+    "9:11",
+    "11:6",
+    "11:6"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-4",
+   "home": [
+    "Frank Müller"
+   ],
+   "away": [
+    "Volker Wiskow"
+   ],
+   "sets": [
+    "11:7",
+    "11:9",
+    "8:11",
+    "11:7"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "3-1",
+   "home": [
+    "Dirk Amberg"
+   ],
+   "away": [
+    "Peter Schröder"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "1-3",
+   "home": [
+    "Klaus Timm"
+   ],
+   "away": [
+    "Olaf Zimmermann"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "2-4",
+   "home": [
+    "Olaf Timm"
+   ],
+   "away": [
+    "Volker Wiskow"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "4-2",
+   "home": [
+    "Frank Müller"
+   ],
+   "away": [
+    "Dietmar Kriemann"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "1-4",
+   "home": [
+    "Klaus Timm"
+   ],
+   "away": [
+    "Volker Wiskow"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "4-1",
+   "home": [
+    "Frank Müller"
+   ],
+   "away": [
+    "Peter Schröder"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "2-3",
+   "home": [
+    "Olaf Timm"
+   ],
+   "away": [
+    "Olaf Zimmermann"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "3-2",
+   "home": [
+    "Dirk Amberg"
+   ],
+   "away": [
+    "Dietmar Kriemann"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  }
+ ],
+ "start": "19:00",
+ "end": "20:30",
+ "spectators": null,
+ "notes": "Spielbericht durch Spielleiter genehmigt. "
+}

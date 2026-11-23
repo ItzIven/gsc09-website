@@ -1,0 +1,301 @@
+{
+ "meeting": "16267737",
+ "date": "2026-11-07",
+ "time": "10:00",
+ "league": "Landesliga Erwachsene West",
+ "team": "I",
+ "teamTitle": "1. Mannschaft",
+ "home": "Güstrower SC",
+ "away": "FSV Rühn",
+ "score": "10:3",
+ "gscIsHome": true,
+ "url": "https://ttvmv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/groupMeetingReport?meeting=16267737&championship=TTVMV+26%2F27&group=521723",
+ "games": [
+  {
+   "pos": "D1-D1",
+   "home": [
+    "Erik Kneifel",
+    "Michael Stepputat"
+   ],
+   "away": [
+    "Ralf Göllnitz",
+    "Hannes Kuntermann"
+   ],
+   "sets": [
+    "11:7",
+    "11:7",
+    "11:6"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "D2-D2",
+   "home": [
+    "Johannes Wilkenloh",
+    "Iven Kammin"
+   ],
+   "away": [
+    "Mathias Petereit",
+    "Andy Griepentrog"
+   ],
+   "sets": [
+    "6:11",
+    "8:11",
+    "6:11"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-2",
+   "home": [
+    "Erik Kneifel"
+   ],
+   "away": [
+    "Ralf Göllnitz"
+   ],
+   "sets": [
+    "11:6",
+    "9:11",
+    "11:1",
+    "11:5"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-1",
+   "home": [
+    "Michael Stepputat"
+   ],
+   "away": [
+    "Mathias Petereit"
+   ],
+   "sets": [
+    "11:8",
+    "8:11",
+    "8:11",
+    "5:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "3-4",
+   "home": [
+    "Johannes Wilkenloh"
+   ],
+   "away": [
+    "Hannes Kuntermann"
+   ],
+   "sets": [
+    "11:5",
+    "11:8",
+    "11:6"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-3",
+   "home": [
+    "Iven Kammin"
+   ],
+   "away": [
+    "Andy Griepentrog"
+   ],
+   "sets": [
+    "6:11",
+    "11:7",
+    "10:12",
+    "11:4",
+    "11:0"
+   ],
+   "setsTotal": "3:2",
+   "point": "1:0"
+  },
+  {
+   "pos": "1-1",
+   "home": [
+    "Erik Kneifel"
+   ],
+   "away": [
+    "Mathias Petereit"
+   ],
+   "sets": [
+    "8:11",
+    "11:3",
+    "5:11",
+    "11:6",
+    "11:4"
+   ],
+   "setsTotal": "3:2",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-2",
+   "home": [
+    "Michael Stepputat"
+   ],
+   "away": [
+    "Ralf Göllnitz"
+   ],
+   "sets": [
+    "9:11",
+    "11:6",
+    "12:10",
+    "11:5"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "3-3",
+   "home": [
+    "Johannes Wilkenloh"
+   ],
+   "away": [
+    "nicht anwesend"
+   ],
+   "sets": [
+    "11:0",
+    "11:0",
+    "11:0"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-4",
+   "home": [
+    "Iven Kammin"
+   ],
+   "away": [
+    "Hannes Kuntermann"
+   ],
+   "sets": [
+    "7:11",
+    "11:9",
+    "11:6",
+    "11:5"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "3-1",
+   "home": [
+    "Johannes Wilkenloh"
+   ],
+   "away": [
+    "Mathias Petereit"
+   ],
+   "sets": [
+    "11:7",
+    "8:11",
+    "17:15",
+    "5:11",
+    "10:12"
+   ],
+   "setsTotal": "2:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-3",
+   "home": [
+    "Erik Kneifel"
+   ],
+   "away": [
+    "nicht anwesend"
+   ],
+   "sets": [
+    "11:0",
+    "11:0",
+    "11:0"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-4",
+   "home": [
+    "Michael Stepputat"
+   ],
+   "away": [
+    "Hannes Kuntermann"
+   ],
+   "sets": [
+    "11:7",
+    "11:9",
+    "11:8"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-2",
+   "home": [
+    "Iven Kammin"
+   ],
+   "away": [
+    "Ralf Göllnitz"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "1-4",
+   "home": [
+    "Erik Kneifel"
+   ],
+   "away": [
+    "Hannes Kuntermann"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "4-1",
+   "home": [
+    "Iven Kammin"
+   ],
+   "away": [
+    "Mathias Petereit"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "2-3",
+   "home": [
+    "Michael Stepputat"
+   ],
+   "away": [
+    "Andy Griepentrog"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "3-2",
+   "home": [
+    "Johannes Wilkenloh"
+   ],
+   "away": [
+    "Ralf Göllnitz"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  }
+ ],
+ "start": "10:00",
+ "end": "12:36",
+ "spectators": "25",
+ "notes": "Andy Griepentrog verletzte sich in seinem ersten Einzel und konnte die weiteren Einzel nicht antreten. Spielbericht durch Spielleiter genehmigt. "
+}

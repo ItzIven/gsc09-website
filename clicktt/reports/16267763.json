@@ -1,0 +1,320 @@
+{
+ "meeting": "16267763",
+ "date": "2026-09-26",
+ "time": "10:00",
+ "league": "Landesliga Erwachsene West",
+ "team": "I",
+ "teamTitle": "1. Mannschaft",
+ "home": "SC Parchim III",
+ "away": "Güstrower SC",
+ "score": "9:9",
+ "gscIsHome": false,
+ "url": "https://ttvmv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/groupMeetingReport?meeting=16267763&championship=TTVMV+26%2F27&group=521723",
+ "games": [
+  {
+   "pos": "D1-D1",
+   "home": [
+    "Rico Jost",
+    "Sandro Gardlo"
+   ],
+   "away": [
+    "Johannes Wilkenloh",
+    "Iven Kammin"
+   ],
+   "sets": [
+    "9:11",
+    "11:8",
+    "11:4",
+    "2:11",
+    "11:4"
+   ],
+   "setsTotal": "3:2",
+   "point": "1:0"
+  },
+  {
+   "pos": "D2-D2",
+   "home": [
+    "Alexander Lembcke",
+    "Maximilian Heilck"
+   ],
+   "away": [
+    "Erik Kneifel",
+    "Michael Stepputat"
+   ],
+   "sets": [
+    "10:12",
+    "7:11",
+    "5:11"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-2",
+   "home": [
+    "Rico Jost"
+   ],
+   "away": [
+    "Michael Stepputat"
+   ],
+   "sets": [
+    "11:6",
+    "11:6",
+    "11:9"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-1",
+   "home": [
+    "Sandro Gardlo"
+   ],
+   "away": [
+    "Erik Kneifel"
+   ],
+   "sets": [
+    "5:11",
+    "6:11",
+    "7:11"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "3-4",
+   "home": [
+    "Alexander Lembcke"
+   ],
+   "away": [
+    "Iven Kammin"
+   ],
+   "sets": [
+    "11:7",
+    "9:11",
+    "13:11",
+    "11:8"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-3",
+   "home": [
+    "Maximilian Heilck"
+   ],
+   "away": [
+    "Johannes Wilkenloh"
+   ],
+   "sets": [
+    "9:11",
+    "8:11",
+    "9:11"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-1",
+   "home": [
+    "Rico Jost"
+   ],
+   "away": [
+    "Erik Kneifel"
+   ],
+   "sets": [
+    "11:6",
+    "11:4",
+    "11:6"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-2",
+   "home": [
+    "Sandro Gardlo"
+   ],
+   "away": [
+    "Michael Stepputat"
+   ],
+   "sets": [
+    "11:8",
+    "12:10",
+    "11:8"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "3-3",
+   "home": [
+    "Alexander Lembcke"
+   ],
+   "away": [
+    "Johannes Wilkenloh"
+   ],
+   "sets": [
+    "11:9",
+    "6:11",
+    "5:11",
+    "7:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "4-4",
+   "home": [
+    "Maximilian Heilck"
+   ],
+   "away": [
+    "Iven Kammin"
+   ],
+   "sets": [
+    "11:7",
+    "11:5",
+    "11:7"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "3-1",
+   "home": [
+    "Alexander Lembcke"
+   ],
+   "away": [
+    "Erik Kneifel"
+   ],
+   "sets": [
+    "15:17",
+    "11:9",
+    "3:11",
+    "8:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-3",
+   "home": [
+    "Rico Jost"
+   ],
+   "away": [
+    "Johannes Wilkenloh"
+   ],
+   "sets": [
+    "12:10",
+    "11:9",
+    "10:12",
+    "11:8"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-4",
+   "home": [
+    "Sandro Gardlo"
+   ],
+   "away": [
+    "Iven Kammin"
+   ],
+   "sets": [
+    "11:5",
+    "11:8",
+    "11:9"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-2",
+   "home": [
+    "Maximilian Heilck"
+   ],
+   "away": [
+    "Michael Stepputat"
+   ],
+   "sets": [
+    "5:11",
+    "11:6",
+    "6:11",
+    "5:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-4",
+   "home": [
+    "Rico Jost"
+   ],
+   "away": [
+    "Iven Kammin"
+   ],
+   "sets": [
+    "11:6",
+    "11:5",
+    "11:8"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-1",
+   "home": [
+    "Maximilian Heilck"
+   ],
+   "away": [
+    "Erik Kneifel"
+   ],
+   "sets": [
+    "8:11",
+    "5:11",
+    "9:11"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "2-3",
+   "home": [
+    "Sandro Gardlo"
+   ],
+   "away": [
+    "Johannes Wilkenloh"
+   ],
+   "sets": [
+    "8:11",
+    "11:8",
+    "9:11",
+    "9:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "3-2",
+   "home": [
+    "Alexander Lembcke"
+   ],
+   "away": [
+    "Michael Stepputat"
+   ],
+   "sets": [
+    "11:8",
+    "10:12",
+    "9:11",
+    "5:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  }
+ ],
+ "start": "10:00",
+ "end": "14:00",
+ "spectators": "10",
+ "notes": "Spielbericht durch Spielleiter genehmigt. "
+}

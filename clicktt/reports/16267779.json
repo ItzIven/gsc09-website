@@ -1,0 +1,326 @@
+{
+ "meeting": "16267779",
+ "date": "2026-10-03",
+ "time": "10:00",
+ "league": "Landesliga Erwachsene West",
+ "team": "I",
+ "teamTitle": "1. Mannschaft",
+ "home": "Güstrower SC",
+ "away": "TTC Kröpelin",
+ "score": "8:10",
+ "gscIsHome": true,
+ "url": "https://ttvmv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/groupMeetingReport?meeting=16267779&championship=TTVMV+26%2F27&group=521723",
+ "games": [
+  {
+   "pos": "D1-D1",
+   "home": [
+    "Johannes Wilkenloh",
+    "Iven Kammin"
+   ],
+   "away": [
+    "Heiko Never",
+    "Roland Kern"
+   ],
+   "sets": [
+    "7:11",
+    "3:11",
+    "6:11"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "D2-D2",
+   "home": [
+    "Erik Kneifel",
+    "Michael Stepputat"
+   ],
+   "away": [
+    "Robert Kedziora",
+    "Veikko Hackendahl"
+   ],
+   "sets": [
+    "11:6",
+    "8:11",
+    "11:3",
+    "5:11",
+    "11:9"
+   ],
+   "setsTotal": "3:2",
+   "point": "1:0"
+  },
+  {
+   "pos": "1-2",
+   "home": [
+    "Erik Kneifel"
+   ],
+   "away": [
+    "Heiko Never"
+   ],
+   "sets": [
+    "11:2",
+    "8:11",
+    "12:10",
+    "11:3"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-1",
+   "home": [
+    "Michael Stepputat"
+   ],
+   "away": [
+    "Robert Kedziora"
+   ],
+   "sets": [
+    "11:13",
+    "11:9",
+    "5:11",
+    "9:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "3-4",
+   "home": [
+    "Johannes Wilkenloh"
+   ],
+   "away": [
+    "Roland Kern"
+   ],
+   "sets": [
+    "11:9",
+    "12:10",
+    "11:8"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-3",
+   "home": [
+    "Iven Kammin"
+   ],
+   "away": [
+    "Veikko Hackendahl"
+   ],
+   "sets": [
+    "4:11",
+    "11:9",
+    "9:11",
+    "6:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-1",
+   "home": [
+    "Erik Kneifel"
+   ],
+   "away": [
+    "Robert Kedziora"
+   ],
+   "sets": [
+    "11:8",
+    "8:11",
+    "9:11",
+    "15:13",
+    "11:6"
+   ],
+   "setsTotal": "3:2",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-2",
+   "home": [
+    "Michael Stepputat"
+   ],
+   "away": [
+    "Heiko Never"
+   ],
+   "sets": [
+    "6:11",
+    "4:11",
+    "11:9",
+    "11:5",
+    "7:11"
+   ],
+   "setsTotal": "2:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "3-3",
+   "home": [
+    "Johannes Wilkenloh"
+   ],
+   "away": [
+    "Veikko Hackendahl"
+   ],
+   "sets": [
+    "15:13",
+    "11:3",
+    "11:6"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-4",
+   "home": [
+    "Iven Kammin"
+   ],
+   "away": [
+    "Roland Kern"
+   ],
+   "sets": [
+    "11:5",
+    "9:11",
+    "10:12",
+    "17:19"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "3-1",
+   "home": [
+    "Johannes Wilkenloh"
+   ],
+   "away": [
+    "Robert Kedziora"
+   ],
+   "sets": [
+    "8:11",
+    "9:11",
+    "5:11"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-3",
+   "home": [
+    "Erik Kneifel"
+   ],
+   "away": [
+    "Veikko Hackendahl"
+   ],
+   "sets": [
+    "11:8",
+    "11:7",
+    "11:9"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-4",
+   "home": [
+    "Michael Stepputat"
+   ],
+   "away": [
+    "Roland Kern"
+   ],
+   "sets": [
+    "8:11",
+    "11:4",
+    "8:11",
+    "7:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "4-2",
+   "home": [
+    "Iven Kammin"
+   ],
+   "away": [
+    "Heiko Never"
+   ],
+   "sets": [
+    "3:11",
+    "13:11",
+    "9:11",
+    "6:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-4",
+   "home": [
+    "Erik Kneifel"
+   ],
+   "away": [
+    "Roland Kern"
+   ],
+   "sets": [
+    "11:4",
+    "11:9",
+    "11:9"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-1",
+   "home": [
+    "Iven Kammin"
+   ],
+   "away": [
+    "Robert Kedziora"
+   ],
+   "sets": [
+    "5:11",
+    "7:11",
+    "6:11"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "2-3",
+   "home": [
+    "Michael Stepputat"
+   ],
+   "away": [
+    "Veikko Hackendahl"
+   ],
+   "sets": [
+    "12:10",
+    "11:7",
+    "2:11",
+    "11:6"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "3-2",
+   "home": [
+    "Johannes Wilkenloh"
+   ],
+   "away": [
+    "Heiko Never"
+   ],
+   "sets": [
+    "11:8",
+    "11:7",
+    "7:11",
+    "13:15",
+    "6:11"
+   ],
+   "setsTotal": "2:3",
+   "point": "0:1"
+  }
+ ],
+ "start": "10:00",
+ "end": "14:45",
+ "spectators": "22",
+ "notes": "Spielbericht durch Spielleiter genehmigt. "
+}

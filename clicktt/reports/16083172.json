@@ -1,0 +1,312 @@
+{
+ "meeting": "16083172",
+ "date": "2026-11-06",
+ "time": "19:00",
+ "league": "Bezirksklasse Herren Nordost 1",
+ "team": "II",
+ "teamTitle": "2. Mannschaft",
+ "home": "Güstrower SC II",
+ "away": "TSG Neubukow",
+ "score": "10:5",
+ "gscIsHome": true,
+ "url": "https://ttvmv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/groupMeetingReport?meeting=16083172&championship=Bezirk+Nordost+26%2F27&group=521754",
+ "games": [
+  {
+   "pos": "D1-D1",
+   "home": [
+    "Christian Peters",
+    "Stefan Ruß"
+   ],
+   "away": [
+    "Bernd Kessler",
+    "Waldemar Koziolek"
+   ],
+   "sets": [
+    "2:11",
+    "8:11",
+    "11:2",
+    "11:9",
+    "11:9"
+   ],
+   "setsTotal": "3:2",
+   "point": "1:0"
+  },
+  {
+   "pos": "D2-D2",
+   "home": [
+    "Marven Kammin",
+    "Lennart Cicha"
+   ],
+   "away": [
+    "Johannes Trettin",
+    "Uwe Harms"
+   ],
+   "sets": [
+    "7:11",
+    "11:8",
+    "9:11",
+    "11:7",
+    "4:11"
+   ],
+   "setsTotal": "2:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-2",
+   "home": [
+    "Christian Peters"
+   ],
+   "away": [
+    "Uwe Harms"
+   ],
+   "sets": [
+    "11:8",
+    "11:4",
+    "11:7"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-1",
+   "home": [
+    "Marven Kammin"
+   ],
+   "away": [
+    "Johannes Trettin"
+   ],
+   "sets": [
+    "7:11",
+    "7:11",
+    "5:11"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "3-4",
+   "home": [
+    "Lennart Cicha"
+   ],
+   "away": [
+    "Waldemar Koziolek"
+   ],
+   "sets": [
+    "11:9",
+    "8:11",
+    "11:5",
+    "11:8"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-3",
+   "home": [
+    "Stefan Ruß"
+   ],
+   "away": [
+    "Bernd Kessler"
+   ],
+   "sets": [
+    "12:10",
+    "11:9",
+    "18:16"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "1-1",
+   "home": [
+    "Christian Peters"
+   ],
+   "away": [
+    "Johannes Trettin"
+   ],
+   "sets": [
+    "12:10",
+    "11:8",
+    "9:11",
+    "4:11",
+    "11:9"
+   ],
+   "setsTotal": "3:2",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-2",
+   "home": [
+    "Marven Kammin"
+   ],
+   "away": [
+    "Uwe Harms"
+   ],
+   "sets": [
+    "13:15",
+    "7:11",
+    "8:11"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "3-3",
+   "home": [
+    "Lennart Cicha"
+   ],
+   "away": [
+    "Bernd Kessler"
+   ],
+   "sets": [
+    "11:7",
+    "11:7",
+    "11:4"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-4",
+   "home": [
+    "Stefan Ruß"
+   ],
+   "away": [
+    "Waldemar Koziolek"
+   ],
+   "sets": [
+    "11:6",
+    "11:5",
+    "10:12",
+    "11:7"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "3-1",
+   "home": [
+    "Lennart Cicha"
+   ],
+   "away": [
+    "Johannes Trettin"
+   ],
+   "sets": [
+    "8:11",
+    "13:15",
+    "12:14"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-3",
+   "home": [
+    "Christian Peters"
+   ],
+   "away": [
+    "Bernd Kessler"
+   ],
+   "sets": [
+    "11:1",
+    "11:7",
+    "11:4"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-4",
+   "home": [
+    "Marven Kammin"
+   ],
+   "away": [
+    "Waldemar Koziolek"
+   ],
+   "sets": [
+    "14:12",
+    "9:11",
+    "9:11",
+    "11:7",
+    "4:11"
+   ],
+   "setsTotal": "2:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "4-2",
+   "home": [
+    "Stefan Ruß"
+   ],
+   "away": [
+    "Uwe Harms"
+   ],
+   "sets": [
+    "6:11",
+    "11:3",
+    "11:6",
+    "7:11",
+    "11:7"
+   ],
+   "setsTotal": "3:2",
+   "point": "1:0"
+  },
+  {
+   "pos": "1-4",
+   "home": [
+    "Christian Peters"
+   ],
+   "away": [
+    "Waldemar Koziolek"
+   ],
+   "sets": [
+    "11:4",
+    "3:11",
+    "11:8",
+    "11:7"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-1",
+   "home": [
+    "Stefan Ruß"
+   ],
+   "away": [
+    "Johannes Trettin"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "2-3",
+   "home": [
+    "Marven Kammin"
+   ],
+   "away": [
+    "Bernd Kessler"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "3-2",
+   "home": [
+    "Lennart Cicha"
+   ],
+   "away": [
+    "Uwe Harms"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  }
+ ],
+ "start": "19:00",
+ "end": "21:28",
+ "spectators": "11",
+ "notes": "Spielbericht durch Spielleiter genehmigt. "
+}

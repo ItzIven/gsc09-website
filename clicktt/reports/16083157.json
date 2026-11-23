@@ -1,0 +1,329 @@
+{
+ "meeting": "16083157",
+ "date": "2026-11-20",
+ "time": "19:00",
+ "league": "Bezirksklasse Herren Nordost 1",
+ "team": "II",
+ "teamTitle": "2. Mannschaft",
+ "home": "KSG Lalendorf/Wattmannshagen",
+ "away": "Güstrower SC II",
+ "score": "9:9",
+ "gscIsHome": false,
+ "url": "https://ttvmv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/groupMeetingReport?meeting=16083157&championship=Bezirk+Nordost+26%2F27&group=521754",
+ "games": [
+  {
+   "pos": "D1-D1",
+   "home": [
+    "Lukas Klotz",
+    "Dominic-Michele Ihns"
+   ],
+   "away": [
+    "Christian Peters",
+    "Marven Kammin"
+   ],
+   "sets": [
+    "11:13",
+    "11:13",
+    "7:11"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "D2-D2",
+   "home": [
+    "Emil Schröter",
+    "Thorben Krase"
+   ],
+   "away": [
+    "Lennart Cicha",
+    "Enya Raetsch"
+   ],
+   "sets": [
+    "9:11",
+    "11:6",
+    "7:11",
+    "11:9",
+    "5:11"
+   ],
+   "setsTotal": "2:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-2",
+   "home": [
+    "Emil Schröter"
+   ],
+   "away": [
+    "Marven Kammin"
+   ],
+   "sets": [
+    "11:7",
+    "12:14",
+    "9:11",
+    "5:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "2-1",
+   "home": [
+    "Lukas Klotz"
+   ],
+   "away": [
+    "Christian Peters"
+   ],
+   "sets": [
+    "11:13",
+    "11:7",
+    "6:11",
+    "11:5",
+    "11:3"
+   ],
+   "setsTotal": "3:2",
+   "point": "1:0"
+  },
+  {
+   "pos": "3-4",
+   "home": [
+    "Dominic-Michele Ihns"
+   ],
+   "away": [
+    "Enya Raetsch"
+   ],
+   "sets": [
+    "7:11",
+    "7:11",
+    "8:11"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "4-3",
+   "home": [
+    "Thorben Krase"
+   ],
+   "away": [
+    "Lennart Cicha"
+   ],
+   "sets": [
+    "8:11",
+    "5:11",
+    "11:9",
+    "7:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-1",
+   "home": [
+    "Emil Schröter"
+   ],
+   "away": [
+    "Christian Peters"
+   ],
+   "sets": [
+    "11:5",
+    "9:11",
+    "11:4",
+    "13:11"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-2",
+   "home": [
+    "Lukas Klotz"
+   ],
+   "away": [
+    "Marven Kammin"
+   ],
+   "sets": [
+    "11:4",
+    "11:6",
+    "11:9"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "3-3",
+   "home": [
+    "Dominic-Michele Ihns"
+   ],
+   "away": [
+    "Lennart Cicha"
+   ],
+   "sets": [
+    "11:9",
+    "8:11",
+    "15:17",
+    "11:8",
+    "11:7"
+   ],
+   "setsTotal": "3:2",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-4",
+   "home": [
+    "Thorben Krase"
+   ],
+   "away": [
+    "Enya Raetsch"
+   ],
+   "sets": [
+    "11:7",
+    "7:11",
+    "11:13",
+    "4:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "3-1",
+   "home": [
+    "Dominic-Michele Ihns"
+   ],
+   "away": [
+    "Christian Peters"
+   ],
+   "sets": [
+    "12:10",
+    "11:2",
+    "6:11",
+    "11:7"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "1-3",
+   "home": [
+    "Emil Schröter"
+   ],
+   "away": [
+    "Lennart Cicha"
+   ],
+   "sets": [
+    "11:9",
+    "6:11",
+    "8:11",
+    "3:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "2-4",
+   "home": [
+    "Lukas Klotz"
+   ],
+   "away": [
+    "Enya Raetsch"
+   ],
+   "sets": [
+    "11:9",
+    "11:5",
+    "11:8"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-2",
+   "home": [
+    "Thorben Krase"
+   ],
+   "away": [
+    "Marven Kammin"
+   ],
+   "sets": [
+    "11:8",
+    "11:6",
+    "5:11",
+    "6:11",
+    "8:11"
+   ],
+   "setsTotal": "2:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-4",
+   "home": [
+    "Emil Schröter"
+   ],
+   "away": [
+    "Enya Raetsch"
+   ],
+   "sets": [
+    "6:11",
+    "11:6",
+    "7:11",
+    "14:12",
+    "11:5"
+   ],
+   "setsTotal": "3:2",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-1",
+   "home": [
+    "Thorben Krase"
+   ],
+   "away": [
+    "Christian Peters"
+   ],
+   "sets": [
+    "4:11",
+    "5:11",
+    "11:13"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "2-3",
+   "home": [
+    "Lukas Klotz"
+   ],
+   "away": [
+    "Lennart Cicha"
+   ],
+   "sets": [
+    "11:8",
+    "11:8",
+    "11:5"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "3-2",
+   "home": [
+    "Dominic-Michele Ihns"
+   ],
+   "away": [
+    "Marven Kammin"
+   ],
+   "sets": [
+    "11:9",
+    "6:11",
+    "11:9",
+    "8:11",
+    "11:7"
+   ],
+   "setsTotal": "3:2",
+   "point": "1:0"
+  }
+ ],
+ "start": "19:00",
+ "end": "22:35",
+ "spectators": "2",
+ "notes": "Spielbericht durch Spielleiter genehmigt. "
+}
