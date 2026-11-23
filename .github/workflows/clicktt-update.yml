@@ -1,0 +1,29 @@
+name: click-TT Abgleich
+on:
+  schedule:
+    - cron: '30 4 * * *'     # täglich ca. 05:30 Uhr (Winterzeit)
+  workflow_dispatch:
+  push:
+    paths: ['scripts/clicktt_update.py', 'clicktt/config.json', '.github/workflows/clicktt-update.yml']
+permissions:
+  contents: write
+  pages: write
+concurrency: clicktt
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Daten von click-TT holen und data.js aktualisieren
+        run: python3 scripts/clicktt_update.py
+      - name: Prüfen
+        run: node --check data.js
+      - name: Änderungen veröffentlichen
+        run: |
+          git config user.name "click-TT Abgleich"; git config user.email "actions@github.com"
+          git add data.js clicktt
+          if git diff --cached --quiet; then echo "Nichts Neues."; exit 0; fi
+          git commit -qm "click-TT-Abgleich $(date +%F)"
+          git push
+          curl -s -X POST -H "Authorization: Bearer ${{ github.token }}" -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${{ github.repository }}/pages/builds" || true
