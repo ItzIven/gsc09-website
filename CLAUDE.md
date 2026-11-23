@@ -26,6 +26,8 @@ Quelle ist ausschließlich `clicktt/reports/<meeting>.json`. Nichts erfinden, ke
 2. Karte `<article class="news-item">` mit `report-score-card` vorne in `.news-grid.current-news` einfügen;
    das Raster zeigt immer genau die 6 neuesten Karten (älteste entfernen, Bericht selbst bleibt).
 3. `NEUES AUS DEM VEREIN · STAND TT.MM.JJJJ` und `data-published-date` auf das heutige Datum setzen.
+4. Die Laufleiste oben auf der Startseite (`ticker.js`) baut sich automatisch aus den ersten 8 Berichten in
+   `#spielberichte` – nichts weiter zu tun, solange neue Berichte oben einsortiert werden.
 
 Labels: I `1. MANNSCHAFT · LANDESLIGA WEST` · II `2. MANNSCHAFT · BEZIRKSKLASSE NORDOST 1` ·
 III `3. MANNSCHAFT · BEZIRKSKLASSE NORDOST 1` · IV `4. MANNSCHAFT · KREISLIGA ROSTOCK LAND` ·
