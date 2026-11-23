@@ -39,7 +39,7 @@ V `5. MANNSCHAFT · 3. KREISKLASSE` · U19 `NACHWUCHS · LANDESLIGA JUNGEN 19 WE
 
 ## Weitere Bausteine (extras.js / extras.css)
 - **Nächstes Heimspiel** (`#heimspiel`): automatisch aus `data.js` (nächstes Heimspiel ohne Ergebnis, Countdown,
-  am Spieltag YouTube-Hinweis). Nichts zu pflegen.
+  am Spieltag der 1. Mannschaft Livestream-Link zu YouTube – gestreamt wird nur bei der Ersten). Nichts zu pflegen.
 - **Galerie** (`#galerie`): Bilder in der Liste `GALLERY` oben in `extras.js` ergänzen (`album` = Saison oder Thema,
   Breite/Höhe angeben, Bild als .webp nach `assets/`). Neue Alben erscheinen automatisch als Reiter.
 - **Probetraining** (`#probetraining`): öffnet eine vorausgefüllte E-Mail an Matthias, speichert keine Daten.

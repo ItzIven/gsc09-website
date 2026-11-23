@@ -45,7 +45,7 @@
     teams.appendChild(document.createTextNode(g.awayName.replace(/\s+/g, ' ')));
     box.querySelector('[data-nm="when"]').textContent =
       DAYS[start.getDay()] + ', ' + start.getDate() + '. ' + MONTHS[start.getMonth()] + ' ' + start.getFullYear() + ' · ' + g.time + ' Uhr';
-    box.querySelector('.next-match__live').hidden = !isToday;
+    box.querySelector('.next-match__live').hidden = !(isToday && g.teams && g.teams[0] === 'I'); // Livestream nur bei der 1. Mannschaft
 
     var more = box.querySelector('[data-nm="more"]');
     games.slice(1, 4).forEach(function (f) {
