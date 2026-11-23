@@ -19,6 +19,50 @@
   function el(tag, cls, text) { var e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; }
   function pad(n) { return String(n).padStart(2, '0'); }
 
+  /* ---------- Spielberichte: nur die neueste Woche offen, ältere Wochen zum Ausklappen ---------- */
+  function groupReportWeeks() {
+    var sec = document.getElementById('spielberichte');
+    if (!sec) return;
+    var reports = Array.prototype.slice.call(sec.querySelectorAll(':scope > details.match-report'));
+    if (!reports.length) return;
+    function monday(d) { var m = new Date(d); m.setDate(m.getDate() - ((m.getDay() + 6) % 7)); m.setHours(0, 0, 0, 0); return m; }
+    var weeks = {}, order = [];
+    reports.forEach(function (r) {
+      var meta = r.querySelector('.report-meta'), m = meta && meta.textContent.match(/(\d{2})\.(\d{2})\.(\d{4})/);
+      var key = 'ohne-datum', mon = null;
+      if (m) { mon = monday(new Date(+m[3], +m[2] - 1, +m[1])); key = mon.toISOString().slice(0, 10); }
+      if (!weeks[key]) { weeks[key] = { mon: mon, items: [] }; order.push(key); }
+      weeks[key].items.push(r);
+    });
+    order.sort(function (a, b) { return b.localeCompare(a); });
+    function label(mon) {
+      if (!mon) return 'Weitere Berichte';
+      var sun = new Date(mon); sun.setDate(sun.getDate() + 6);
+      var same = mon.getMonth() === sun.getMonth();
+      return mon.getDate() + '.' + (same ? '' : ' ' + MONTHS[mon.getMonth()]) + '–' + sun.getDate() + '. ' + MONTHS[sun.getMonth()] + ' ' + sun.getFullYear();
+    }
+    // alte, fest eingetragene Wochenüberschriften ausblenden – die Gliederung entsteht hier aus den Spieldaten
+    Array.prototype.forEach.call(sec.querySelectorAll(':scope > p.eyebrow'), function (e) { e.hidden = true; });
+    var anchor = document.createComment('berichte'); sec.insertBefore(anchor, reports[0]);
+    order.forEach(function (key, i) {
+      var w = weeks[key];
+      if (i === 0) {
+        var head = el('p', 'eyebrow report-week-current', label(w.mon).toUpperCase());
+        sec.insertBefore(head, anchor);
+        w.items.forEach(function (r) { sec.insertBefore(r, anchor); });
+        return;
+      }
+      var box = el('details', 'report-week');
+      var sum = el('summary');
+      sum.appendChild(el('span', 'report-week__title', label(w.mon)));
+      sum.appendChild(el('span', 'report-week__count', w.items.length + (w.items.length === 1 ? ' Bericht' : ' Berichte')));
+      box.appendChild(sum);
+      w.items.forEach(function (r) { box.appendChild(r); });
+      sec.appendChild(box);
+      if (i === 1) { var h = el('p', 'eyebrow report-week-older', 'FRÜHERE WOCHEN'); sec.insertBefore(h, box); }
+    });
+  }
+
   /* ---------- Nächstes Heimspiel ---------- */
   function nextHomeGame() {
     var box = document.getElementById('heimspiel');
@@ -152,6 +196,6 @@
   }
 
   document.addEventListener('DOMContentLoaded', function () {
-    [nextHomeGame, gallery, trialForm, impressum].forEach(function (fn) { try { fn(); } catch (e) { console.warn(fn.name, e); } });
+    [groupReportWeeks, nextHomeGame, gallery, trialForm, impressum].forEach(function (fn) { try { fn(); } catch (e) { console.warn(fn.name, e); } });
   });
 })();

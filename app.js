@@ -35,7 +35,7 @@ document.querySelectorAll('[data-team]').forEach(b=>b.addEventListener('click',(
 
 // Apply the persisted data snapshot without changing the page's visual design.
 function applySnapshot(){
- const dataDate=formatDate(clubData.updatedAt);const walker=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT);const texts=[];while(walker.nextNode())texts.push(walker.currentNode);texts.forEach(node=>{if(!['SCRIPT','STYLE'].includes(node.parentElement?.tagName))node.textContent=node.textContent.replaceAll('30.10.2026',dataDate)});
+ const dataDate=formatDate(clubData.updatedAt);const walker=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT);const texts=[];while(walker.nextNode())texts.push(walker.currentNode);texts.forEach(node=>{if(node.parentElement?.closest('.source-note, .list-caption'))node.textContent=node.textContent.replaceAll('30.10.2026',dataDate)}); // nur Datenstand-Hinweise, nicht echte Spieldaten
  document.querySelectorAll('[data-team]').forEach(button=>{const team=clubData.teams.find(t=>t.id===button.dataset.team);if(!team)return;const badge=button.querySelector('.team-standing');if(badge)badge.innerHTML=`Platz ${escapeHTML(team.rank)} <span>·</span> ${escapeHTML(team.points)} Punkte`;const small=button.querySelector('small');if(small)small.textContent=team.league.replace(' Erwachsene','').replace(' Herren','')});
  const news=clubData.news;
  const container=document.querySelector('.current-news');

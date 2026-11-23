@@ -103,3 +103,20 @@ dialog .impressum dd{margin:4px 0 0;font-size:14px;color:var(--muted)}
   .next-match__live::before{animation:none}
   .gallery-grid img{transition:none}
 }
+
+/* ---------- Spielberichte nach Wochen ---------- */
+.weekend-reports>p.eyebrow[hidden]{display:none}
+.report-week-older{margin-top:40px}
+.report-week{border-top:1px solid var(--line)}
+.report-week:last-child{border-bottom:1px solid var(--line)}
+.report-week>summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:16px;padding:18px 0;font-weight:700}
+.report-week>summary::-webkit-details-marker{display:none}
+.report-week>summary::after{content:"+";margin-left:auto;font-size:22px;line-height:1;color:var(--green)}
+.report-week[open]>summary::after{content:"–"}
+.report-week__title{font-family:var(--display);font-weight:400;font-size:22px;letter-spacing:.3px;text-transform:uppercase}
+.report-week__count{font-size:12px;color:var(--muted);letter-spacing:.6px}
+.report-week>summary:hover .report-week__title{color:var(--green)}
+.report-week>summary:focus-visible{outline:2px solid var(--green);outline-offset:3px}
+.report-week[open]{padding-bottom:12px}
+.report-week .match-report{margin-left:18px}
+@media(max-width:600px){.report-week .match-report{margin-left:8px}.report-week__title{font-size:19px}}

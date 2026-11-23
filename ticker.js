@@ -4,7 +4,7 @@
   function openReport(id, smooth) {
     var el = document.getElementById(id);
     if (!el || !el.classList.contains('match-report')) return false;
-    el.open = true;
+    for (var a = el; a; a = a.parentElement) { if (a.tagName === 'DETAILS') a.open = true; }
     el.scrollIntoView({ behavior: smooth ? 'smooth' : 'auto', block: 'start' });
     return true;
   }

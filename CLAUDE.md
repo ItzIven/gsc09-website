@@ -20,8 +20,9 @@ Quelle ist ausschließlich `clicktt/reports/<meeting>.json`. Nichts erfinden, ke
 
 ### Einbau in index.html
 1. Bericht als `<details class="match-report" id="spielbericht-<meeting>" data-source-url="<url>" data-score="<score>">`
-   (Aufbau exakt wie die vorhandenen) im Abschnitt `#spielberichte` einfügen: neueste Woche oben, unter einer
-   Wochenüberschrift `<p class="eyebrow">16.–22. NOVEMBER 2026</p>` (Montag–Sonntag; vorhandene Woche wiederverwenden).
+   (Aufbau exakt wie die vorhandenen) im Abschnitt `#spielberichte` ganz oben einfügen (neueste zuerst).
+   Wochenüberschriften sind nicht nötig: `extras.js` gruppiert die Berichte anhand des Datums in `.report-meta`
+   (TT.MM.JJJJ am Anfang!) nach Wochen – nur die neueste Woche ist offen, ältere Wochen lassen sich ausklappen.
    Link am Ende: `Offizielles Spielprotokoll ↗` auf `url`.
 2. Karte `<article class="news-item">` mit `report-score-card` vorne in `.news-grid.current-news` einfügen;
    das Raster zeigt immer genau die 6 neuesten Karten (älteste entfernen, Bericht selbst bleibt).
