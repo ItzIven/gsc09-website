@@ -1,0 +1,323 @@
+{
+ "meeting": "16226449",
+ "date": "2026-11-23",
+ "time": "19:00",
+ "league": "Kreisliga Herren Rostock Land",
+ "team": "IV",
+ "teamTitle": "4. Mannschaft",
+ "home": "Güstrower SC IV",
+ "away": "TSV Einheit Tessin",
+ "score": "6:10",
+ "gscIsHome": true,
+ "url": "https://ttvmv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/groupMeetingReport?meeting=16226449&championship=Rostock+Land+26%2F27&group=521739",
+ "games": [
+  {
+   "pos": "D1-D1",
+   "home": [
+    "Stefan Kammin",
+    "Tim Blaffert"
+   ],
+   "away": [
+    "Michael Halier",
+    "Wolfgang Neumann"
+   ],
+   "sets": [
+    "8:11",
+    "11:9",
+    "11:6",
+    "11:7"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "D2-D2",
+   "home": [
+    "Enya Raetsch",
+    "Stefan Ruß"
+   ],
+   "away": [
+    "Alexander Drevs",
+    "Frank Bonn"
+   ],
+   "sets": [
+    "10:12",
+    "12:10",
+    "8:11",
+    "11:9",
+    "2:11"
+   ],
+   "setsTotal": "2:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-2",
+   "home": [
+    "Enya Raetsch"
+   ],
+   "away": [
+    "Alexander Drevs"
+   ],
+   "sets": [
+    "11:9",
+    "9:11",
+    "4:11",
+    "11:8",
+    "8:11"
+   ],
+   "setsTotal": "2:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "2-1",
+   "home": [
+    "Stefan Kammin"
+   ],
+   "away": [
+    "Michael Halier"
+   ],
+   "sets": [
+    "11:6",
+    "10:12",
+    "10:12",
+    "5:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "3-4",
+   "home": [
+    "Stefan Ruß"
+   ],
+   "away": [
+    "Frank Bonn"
+   ],
+   "sets": [
+    "11:6",
+    "5:11",
+    "11:7",
+    "8:11",
+    "11:8"
+   ],
+   "setsTotal": "3:2",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-3",
+   "home": [
+    "Tim Blaffert"
+   ],
+   "away": [
+    "Wolfgang Neumann"
+   ],
+   "sets": [
+    "11:5",
+    "11:6",
+    "9:11",
+    "6:11",
+    "12:10"
+   ],
+   "setsTotal": "3:2",
+   "point": "1:0"
+  },
+  {
+   "pos": "1-1",
+   "home": [
+    "Enya Raetsch"
+   ],
+   "away": [
+    "Michael Halier"
+   ],
+   "sets": [
+    "7:11",
+    "8:11",
+    "11:8",
+    "11:4",
+    "13:15"
+   ],
+   "setsTotal": "2:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "2-2",
+   "home": [
+    "Stefan Kammin"
+   ],
+   "away": [
+    "Alexander Drevs"
+   ],
+   "sets": [
+    "11:7",
+    "9:11",
+    "2:11",
+    "14:12",
+    "8:11"
+   ],
+   "setsTotal": "2:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "3-3",
+   "home": [
+    "Stefan Ruß"
+   ],
+   "away": [
+    "Wolfgang Neumann"
+   ],
+   "sets": [
+    "11:8",
+    "12:10",
+    "9:11",
+    "11:6"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-4",
+   "home": [
+    "Tim Blaffert"
+   ],
+   "away": [
+    "Frank Bonn"
+   ],
+   "sets": [
+    "7:11",
+    "9:11",
+    "11:5",
+    "7:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "3-1",
+   "home": [
+    "Stefan Ruß"
+   ],
+   "away": [
+    "Michael Halier"
+   ],
+   "sets": [
+    "5:11",
+    "12:10",
+    "9:11",
+    "14:12",
+    "7:11"
+   ],
+   "setsTotal": "2:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-3",
+   "home": [
+    "Enya Raetsch"
+   ],
+   "away": [
+    "Wolfgang Neumann"
+   ],
+   "sets": [
+    "11:6",
+    "11:8",
+    "11:9"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-4",
+   "home": [
+    "Stefan Kammin"
+   ],
+   "away": [
+    "Frank Bonn"
+   ],
+   "sets": [
+    "5:11",
+    "7:11",
+    "5:11"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "4-2",
+   "home": [
+    "Tim Blaffert"
+   ],
+   "away": [
+    "Alexander Drevs"
+   ],
+   "sets": [
+    "3:11",
+    "7:11",
+    "11:8",
+    "7:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-4",
+   "home": [
+    "Enya Raetsch"
+   ],
+   "away": [
+    "Frank Bonn"
+   ],
+   "sets": [
+    "11:5",
+    "11:6",
+    "11:5"
+   ],
+   "setsTotal": "3:0",
+   "point": "1:0"
+  },
+  {
+   "pos": "4-1",
+   "home": [
+    "Tim Blaffert"
+   ],
+   "away": [
+    "Michael Halier"
+   ],
+   "sets": [
+    "4:11",
+    "14:12",
+    "6:11",
+    "7:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "2-3",
+   "home": [
+    "Stefan Kammin"
+   ],
+   "away": [
+    "Wolfgang Neumann"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "3-2",
+   "home": [
+    "Stefan Ruß"
+   ],
+   "away": [
+    "Alexander Drevs"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  }
+ ],
+ "start": "19:00",
+ "end": "22:10",
+ "spectators": "5",
+ "notes": "Spielbericht durch Spielleiter genehmigt. "
+}
