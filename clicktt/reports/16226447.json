@@ -1,0 +1,295 @@
+{
+ "meeting": "16226447",
+ "date": "2026-10-12",
+ "time": "19:00",
+ "league": "Kreisliga Herren Rostock Land",
+ "team": "IV",
+ "teamTitle": "4. Mannschaft",
+ "home": "FSV Rühn III",
+ "away": "Güstrower SC IV",
+ "score": "1:10",
+ "gscIsHome": false,
+ "url": "https://ttvmv.click-tt.de/cgi-bin/WebObjects/nuLigaTTDE.woa/wa/groupMeetingReport?meeting=16226447&championship=Rostock+Land+26%2F27&group=521739",
+ "games": [
+  {
+   "pos": "D1-D1",
+   "home": [
+    "Olaf Mergel",
+    "Holger Sommer"
+   ],
+   "away": [
+    "Michael Girbig",
+    "Tim Blaffert"
+   ],
+   "sets": [
+    "10:12",
+    "4:11",
+    "8:11"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "D2-D2",
+   "home": [
+    "Jens Niederstraßer",
+    "Jürgen Ueckert"
+   ],
+   "away": [
+    "Enya Raetsch",
+    "Isabell Mokosch"
+   ],
+   "sets": [
+    "11:9",
+    "1:11",
+    "11:6",
+    "8:11",
+    "7:11"
+   ],
+   "setsTotal": "2:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-2",
+   "home": [
+    "Jens Niederstraßer"
+   ],
+   "away": [
+    "Michael Girbig"
+   ],
+   "sets": [
+    "11:4",
+    "6:11",
+    "11:7",
+    "11:7"
+   ],
+   "setsTotal": "3:1",
+   "point": "1:0"
+  },
+  {
+   "pos": "2-1",
+   "home": [
+    "Olaf Mergel"
+   ],
+   "away": [
+    "Enya Raetsch"
+   ],
+   "sets": [
+    "1:11",
+    "8:11",
+    "12:10",
+    "7:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "3-4",
+   "home": [
+    "Holger Sommer"
+   ],
+   "away": [
+    "Isabell Mokosch"
+   ],
+   "sets": [
+    "4:11",
+    "11:7",
+    "6:11",
+    "11:7",
+    "9:11"
+   ],
+   "setsTotal": "2:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "4-3",
+   "home": [
+    "Jürgen Ueckert"
+   ],
+   "away": [
+    "Tim Blaffert"
+   ],
+   "sets": [
+    "11:7",
+    "11:9",
+    "10:12",
+    "6:11",
+    "6:11"
+   ],
+   "setsTotal": "2:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-1",
+   "home": [
+    "Jens Niederstraßer"
+   ],
+   "away": [
+    "Enya Raetsch"
+   ],
+   "sets": [
+    "8:11",
+    "9:11",
+    "7:11"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "2-2",
+   "home": [
+    "Olaf Mergel"
+   ],
+   "away": [
+    "Michael Girbig"
+   ],
+   "sets": [
+    "6:11",
+    "11:9",
+    "8:11",
+    "1:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "3-3",
+   "home": [
+    "Holger Sommer"
+   ],
+   "away": [
+    "Tim Blaffert"
+   ],
+   "sets": [
+    "12:14",
+    "9:11",
+    "11:7",
+    "11:4",
+    "5:11"
+   ],
+   "setsTotal": "2:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "4-4",
+   "home": [
+    "Jürgen Ueckert"
+   ],
+   "away": [
+    "Isabell Mokosch"
+   ],
+   "sets": [
+    "9:11",
+    "8:11",
+    "11:7",
+    "4:11"
+   ],
+   "setsTotal": "1:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "3-1",
+   "home": [
+    "Holger Sommer"
+   ],
+   "away": [
+    "Enya Raetsch"
+   ],
+   "sets": [
+    "11:13",
+    "7:11",
+    "6:11"
+   ],
+   "setsTotal": "0:3",
+   "point": "0:1"
+  },
+  {
+   "pos": "1-3",
+   "home": [
+    "Jens Niederstraßer"
+   ],
+   "away": [
+    "Tim Blaffert"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "2-4",
+   "home": [
+    "Olaf Mergel"
+   ],
+   "away": [
+    "Isabell Mokosch"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "4-2",
+   "home": [
+    "Jürgen Ueckert"
+   ],
+   "away": [
+    "Michael Girbig"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "1-4",
+   "home": [
+    "Jens Niederstraßer"
+   ],
+   "away": [
+    "Isabell Mokosch"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "4-1",
+   "home": [
+    "Jürgen Ueckert"
+   ],
+   "away": [
+    "Enya Raetsch"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "2-3",
+   "home": [
+    "Olaf Mergel"
+   ],
+   "away": [
+    "Tim Blaffert"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  },
+  {
+   "pos": "3-2",
+   "home": [
+    "Holger Sommer"
+   ],
+   "away": [
+    "Michael Girbig"
+   ],
+   "sets": [],
+   "setsTotal": null,
+   "point": null
+  }
+ ],
+ "start": null,
+ "end": null,
+ "spectators": "2",
+ "notes": "Spielbericht durch Spielleiter genehmigt. "
+}
